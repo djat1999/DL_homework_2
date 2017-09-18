@@ -1,0 +1,6 @@
+(\b(O|o)[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6})
+4
+To: outlook.team@enron.com
+To: kimberly.olinger@enron.com
+To: outlook.team@enron.com
+Message-ID: <OF1845F8DC.31DE1EAF-ON86256A1E.00535FA2@enron.com>
