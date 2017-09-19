@@ -1,4 +1,4 @@
-[^.]\b(O|o)\S+@\S+\.\S[^Massage ID]
+[^.]\b(O|o)\S+@\S+\.\S[^Message-ID]
 31
 To: outlook.team@enron.com
 To: outlook.team@enron.com
